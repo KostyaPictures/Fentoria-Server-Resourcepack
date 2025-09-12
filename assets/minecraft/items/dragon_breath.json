@@ -1,0 +1,26 @@
+{
+  "model": {
+    "type": "select",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "item/dragon_breath"
+    },
+    "cases": [
+      {
+        "when": "7",
+        "model": {
+          "type": "model",
+          "model": "item/purple_potion"
+        }
+      },
+      {
+        "when": "8",
+        "model": {
+          "type": "model",
+          "model": "item/sculk_potion"
+        }
+      }
+    ]
+  }
+}
