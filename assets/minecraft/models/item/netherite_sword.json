@@ -1,0 +1,26 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+      "layer0": "item/netherite_sword"
+    },
+    "overrides": [
+      {
+        "predicate": {
+          "custom_model_data": 4
+        },
+        "model": "custom:item/bloodygrief"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 7
+        },
+        "model": "custom:item/faintquasar"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 9
+        },
+        "model": "custom:item/yoshi_main"
+      }
+    ]
+}

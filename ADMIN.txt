@@ -1,0 +1,13 @@
+###CustomModelData###
+команда для выдачи: /give @p minecraft:***[minecraft:custom_model_data=*(*)*]
+катана bloodygrief - netherite_sword / diamond_sword (4)
+катана faintquasar - netherite_sword / diamond_sword (7)
+катана Yoshi - netherite_sword / diamond_sword (9)
+
+Светящаяся кисть - brush (6)
+
+Скалковое зелье - dragon_breath (8)
+Фиолетовое зелье - dragon_breath (7)
+
+###Уникальные символы###
+ഌ - "фентория 1 сезон"

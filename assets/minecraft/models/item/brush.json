@@ -1,0 +1,14 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+      "layer0": "item/brush"
+    },
+    "overrides": [
+      {
+        "predicate": {
+          "custom_model_data": 6
+        },
+        "model": "custom:item/glowing_brush"
+      }
+    ]
+}
