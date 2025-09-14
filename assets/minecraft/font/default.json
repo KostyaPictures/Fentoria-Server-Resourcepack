@@ -4,9 +4,45 @@
             "type": "bitmap",
             "file": "minecraft:font/logo.png",
             "ascent": 15,
-            "height": 20,
+            "height": 50,
             "chars": [
-                "\u0D0C"
+                "\u2660"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/afk.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\u2661"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/world.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\u2662"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/hell.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\u2648"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/end.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\u2664"
             ]
         }
     ]
