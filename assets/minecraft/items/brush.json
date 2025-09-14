@@ -8,7 +8,7 @@
     },
     "cases": [
       {
-        "when": "2",
+        "when": "6",
         "model": {
           "type": "model",
           "model": "item/glowing_brush"
