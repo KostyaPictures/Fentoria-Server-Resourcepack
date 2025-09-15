@@ -5,6 +5,7 @@
 катана bloodygrief - netherite_sword / diamond_sword '4'
 катана faintquasar - netherite_sword / diamond_sword '7'
 катана Yoshi - netherite_sword / diamond_sword '9'
+катана Yamato - netherite_sword / diamond_sword '8'
 
 Светящаяся кисть - brush '2'
 

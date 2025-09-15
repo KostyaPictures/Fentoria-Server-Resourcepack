@@ -54,6 +54,52 @@
         }
       },
       {
+        "when": "8",
+        "model": {
+          "type": "select",
+          "property": "display_context",
+          "cases": [
+            {
+              "when": "gui",
+              "model": {
+                "type": "model",
+                "model": "item/yamato_hand"
+              }
+            },
+            {
+              "when": "firstperson_righthand",
+              "model": {
+                "type": "model",
+                "model": "item/yamato_hand"
+              }
+            },
+            {
+              "when": "thirdperson_righthand",
+              "model": {
+                "type": "model",
+                "model": "item/yamato_hand"
+              }
+            },
+            {
+              "when": "firstperson_lefthand",
+              "type": "model",
+              "model": {
+                "type": "model",
+                "model": "item/yamato"
+              }
+            },
+            {
+              "when": "thirdperson_lefthand",
+              "type": "model",
+              "model": {
+                "type": "model",
+                "model": "item/yamato"
+              }
+            }
+          ]
+        }
+      },
+      {
         "when": "7",
         "model": {
           "type": "select",
