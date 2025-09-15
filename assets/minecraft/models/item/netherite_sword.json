@@ -18,6 +18,12 @@
       },
       {
         "predicate": {
+          "custom_model_data": 8
+        },
+        "model": "custom:item/yamato_hand"
+      },
+      {
+        "predicate": {
           "custom_model_data": 9
         },
         "model": "custom:item/yoshi_main"
