@@ -1,0 +1,22 @@
+{ 
+  "ambient.earthquake": {
+    "sounds": [
+      {
+        "name": "fentoriya:earthquake",
+        "replace": true,
+        "weight": 10000000,
+        "pitch": 1
+        }
+    ]
+  },
+  "music.sleep": {
+    "sounds": [
+      {
+        "name": "fentoriya:sleep",
+        "replace": true,
+        "weight": 10000000,
+        "pitch": 1
+        }
+    ]
+  }
+}

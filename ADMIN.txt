@@ -1,0 +1,19 @@
+###CustomModelData###
+команда для выдачи: /give @p minecraft:***[minecraft:custom_model_data={strings:['***']}]
+
+##########################
+катана bloodygrief - netherite_sword / diamond_sword '4'
+катана faintquasar - netherite_sword / diamond_sword '7'
+катана Yoshi - netherite_sword / diamond_sword '9'
+катана Yamato - netherite_sword / diamond_sword '8'
+
+Светящаяся кисть - brush '2'
+
+Скалковое зелье - honey_bottle '8'
+Фиолетовое зелье - honey_bottle '7'
+
+###Уникальные символы###
+ഌ - "фентория 1 сезон"
+
+###кастомные предметы на наковальне###
+honey_bottle - Пиво

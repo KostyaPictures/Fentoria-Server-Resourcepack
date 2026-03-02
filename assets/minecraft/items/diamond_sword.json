@@ -1,0 +1,202 @@
+{
+  "model": {
+    "type": "select",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "item/diamond_sword"
+    },
+    "cases": [
+      {
+        "when": "4",
+        "model": {
+          "type": "select",
+          "property": "display_context",
+          "cases": [
+            {
+              "when": "gui",
+              "model": {
+                "type": "model",
+                "model": "item/bloodygrief"
+              }
+            },
+            {
+              "when": "firstperson_righthand",
+              "model": {
+                "type": "model",
+                "model": "item/bloodygrief"
+              }
+            },
+            {
+              "when": "thirdperson_righthand",
+              "model": {
+                "type": "model",
+                "model": "item/bloodygrief"
+              }
+            },
+            {
+              "when": "firstperson_lefthand",
+              "type": "model",
+              "model": {
+                "type": "model",
+                "model": "item/bgsheath"
+              }
+            },
+            {
+              "when": "thirdperson_lefthand",
+              "type": "model",
+              "model": {
+                "type": "model",
+                "model": "item/bgsheath"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "when": "8",
+        "model": {
+          "type": "select",
+          "property": "display_context",
+          "cases": [
+            {
+              "when": "gui",
+              "model": {
+                "type": "model",
+                "model": "item/yamato_hand"
+              }
+            },
+            {
+              "when": "firstperson_righthand",
+              "model": {
+                "type": "model",
+                "model": "item/yamato_hand"
+              }
+            },
+            {
+              "when": "thirdperson_righthand",
+              "model": {
+                "type": "model",
+                "model": "item/yamato_hand"
+              }
+            },
+            {
+              "when": "firstperson_lefthand",
+              "type": "model",
+              "model": {
+                "type": "model",
+                "model": "item/yamato"
+              }
+            },
+            {
+              "when": "thirdperson_lefthand",
+              "type": "model",
+              "model": {
+                "type": "model",
+                "model": "item/yamato"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "when": "7",
+        "model": {
+          "type": "select",
+          "property": "display_context",
+          "cases": [
+            {
+              "when": "gui",
+              "type": "model",
+              "model": {
+                "type":"model",
+                "model":"item/faintquasar"
+              }
+            },
+            {
+              "when": "firstperson_righthand",
+              "type": "model",
+              "model": {
+                "type":"model",
+                "model":"item/faintquasar"
+              }
+            },
+            {
+              "when": "thirdperson_righthand",
+              "type": "model",
+              "model": {
+                "type":"model",
+                "model":"item/faintquasar"
+              }
+            },
+            {
+              "when": "firstperson_lefthand",
+              "type": "model",
+              "model": {
+                "type":"model",
+                "model":"item/fqsheath"
+              }
+            },
+            {
+              "when": "thirdperson_lefthand",
+              "type": "model",
+              "model": {
+                "type":"model",
+                "model":"item/fqsheath"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "when": "9",
+        "model": {
+          "type": "select",
+          "property": "display_context",
+          "cases": [
+            {
+              "when": "gui",
+              "type": "model",
+              "model": {
+                "type": "model",
+                "model": "item/yoshi_main"
+              }
+            },
+            {
+              "when": "firstperson_righthand",
+              "type": "model",
+              "model": {
+                "type": "model",
+                "model": "item/yoshi_main"
+              }
+            },
+            {
+              "when": "thirdperson_righthand",
+              "type": "model",
+              "model": {
+                "type": "model",
+                "model": "item/yoshi_main"
+              }
+            },
+            {
+              "when": "firstperson_lefthand",
+              "type": "model",
+              "model": {
+                "type": "model",
+                "model": "item/yoshi"
+              }
+            },
+            {
+              "when": "thirdperson_lefthand",
+              "type": "model",
+              "model": {
+                "type": "model",
+                "model": "item/yoshi"
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
